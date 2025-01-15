@@ -1,6 +1,6 @@
 
 <template>
-  <div class="wrapper">
+  <div class="wrapper" :style="{backgroundImage:`url(${require('./img/background.png')})`}">
     <h1>面向不确定演化的服务生态系统工具平台</h1>
     <div class="container">
       <img src="./img/circle.png" alt="" class="bg" />
@@ -251,7 +251,6 @@ body{
 .wrapper {
   min-width: 1400px;
   background-color: #fafafa;
-  background: url('./img/background.png');
   overflow: hidden;
   height: 1000px;
 }
