@@ -251,7 +251,7 @@ body{
 .wrapper {
   min-width: 1400px;
   background-color: #fafafa;
-  background: url(http://www.watchman-pypi.com/img/background.png);
+  background: url('./img/background.png');
   overflow: hidden;
   height: 1000px;
 }
