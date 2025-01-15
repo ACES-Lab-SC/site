@@ -1,10 +1,10 @@
 <template>
-  <div class="box">
+  <div class="box" @click="go(msg.link)">
           <div class="tittle">
             {{msg.title}}
           </div>
           <div class="text">{{msg.text}}</div>
-          <div class="link" @click="go(msg.link)">
+          <div class="link" >
             {{msg.link}}
           </div>
         </div>
@@ -29,7 +29,7 @@ export default {
 <style>
     .box{
         color: #000;
-        background-color: rgba(255, 255, 255, 0.8);
+        background-color: rgba(255, 255, 255, 0.85);
         /* background-color: #d9f5f2; */
         /* opacity: 0.8; */
         border-radius: 5px;
@@ -38,6 +38,7 @@ export default {
         display: inline-block;
         margin: 30px;
         cursor: default;
+        padding-bottom: 10px;
     }
     .tittle{
         font-size: 20px;
@@ -50,6 +51,5 @@ export default {
     .link{
         font-size: 12px;
         color: cornflowerblue;
-        cursor: pointer;
     }
 </style>

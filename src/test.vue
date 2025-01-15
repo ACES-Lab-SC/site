@@ -175,55 +175,56 @@ body{
 .line{
   
   position: absolute;
+  opacity: 0.8;
 }
 .line1 {
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 1);
   width: 140px;
   top: 300px;
   left: 0px;
 }
 .line2 {
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 1);
   width: 150px;
   top: 460px;
   left: 0px;
 }
 
 .line3 {
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 1);
   width: 154px;
   top: 460px;
   left: 657px;
 }
 .line4 {
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 1);
   width: 145px;
   top: 300px;
   left: 665px;
 }
 .line5 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255, 1);
   height: 145px;
   top: 455px;
   left: 350px;
 }
 .line6 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255, 1);
   height: 200px;
   top: 153px;
   left: 400px;
 }
 .line7 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255,1);
+  border-bottom: 1px solid rgba(255, 255, 255,1);
   height: 200px;
   width: 80px;
   top: 473px;
   left: 480px;
 }
 .line8 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
-  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255,1);
+  border-top: 1px solid rgba(255, 255, 255,1);
   height: 110px;
   width: 178px;
   top: 170px;
@@ -231,15 +232,15 @@ body{
 }
 
 .line9 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255,1);
+  border-bottom: 1px solid rgba(255, 255, 255,1);
   height: 70px;
   width: 200px;
   top: 155px;
   left: 80px;
 }
 .line10 {
-  border-left: 2px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255,1);
   
   height: 35px;
   width: 200px;
