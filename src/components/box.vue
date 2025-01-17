@@ -4,9 +4,9 @@
             {{msg.title}}
           </div>
           <div class="text">{{msg.text}}</div>
-          <div class="link" >
+          <!-- <div class="link" >
             {{msg.link}}
-          </div>
+          </div> -->
         </div>
 </template>
 

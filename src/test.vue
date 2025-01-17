@@ -144,7 +144,7 @@ export default {
           ,link:'https://gcli.notion.site/flex-schedule-1?pvs=4'
         },box7:{
           title:'基于遗传改良与测试用例选择的程序缺陷自动修复原型工具',
-          text:'Repair4J 是一个面向Java程序缺陷修复的原型工具，允许开发人员应用不同的实验设置（开关变异操作）和定制化操作（自定义变异算子）。'
+          text:'Repair4J 是一个Java 程序缺陷自动修复工具，旨在解决传统软件维护中成本高、效率低的问题。它通过改进补丁生成策略、提升补丁质量和优化验证流程，同时支持自定义变异算子和开关变异操作，帮助开发者更高效地修复软件缺陷。'
           ,link:'https://gcli.notion.site/vul-1'
         },box8:{
           title:'RBC智能平台测试用例增强工具',
@@ -211,7 +211,7 @@ body{
 .line6 {
   border-left: 1px solid rgba(255, 255, 255, 1);
   height: 200px;
-  top: 153px;
+  top: 143px;
   left: 400px;
 }
 .line7 {
@@ -225,9 +225,9 @@ body{
 .line8 {
   border-left: 1px solid rgba(255, 255, 255,1);
   border-top: 1px solid rgba(255, 255, 255,1);
-  height: 110px;
+  height: 120px;
   width: 178px;
-  top: 170px;
+  top: 160px;
   left: 480px;
 }
 
@@ -236,15 +236,15 @@ body{
   border-bottom: 1px solid rgba(255, 255, 255,1);
   height: 70px;
   width: 200px;
-  top: 155px;
+  top: 143px;
   left: 80px;
 }
 .line10 {
   border-left: 1px solid rgba(255, 255, 255,1);
   
-  height: 35px;
+  height: 45px;
   width: 200px;
-  top: 225px;
+  top: 213px;
   left: 280px;
 }
 </style>
