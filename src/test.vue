@@ -266,6 +266,7 @@ img {
   text-align: center;
   margin: 0 auto;
   margin-bottom: 5px;
+  z-index: 100;
 }
 .box{
   position: absolute;
@@ -323,6 +324,7 @@ img.bg {
   width: 900px;
   margin-left: -70px;
   margin-top: 100px;
+  position: relative
 }
 
 .container {
